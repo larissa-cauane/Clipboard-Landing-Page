@@ -3,6 +3,7 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
+  margin-bottom: 130px;
 }
 
 .features__title {
@@ -24,11 +25,10 @@
 .features__container {
   display: flex;
   gap: 70px;
-
 }
 
 .features__img-container {
-  width: 60%;
+  width: 70%;
   position: relative;
   right: 30px;
 }
@@ -64,5 +64,4 @@
   font-weight: 400;
   color: var(--neutral-gray-500);
   line-height: 1.8;
-  
 }
